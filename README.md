@@ -86,11 +86,11 @@ Com o volume de conteúdo crescendo e a necessidade de adequar o projeto às ins
 
 ## 🛠️ Programação e Tecnologias
 
-- **HTML5** – estrutura e semântica das páginas
-- **CSS3** – estilização com folhas de estilo externas
-- **SVG** – formas decorativas de fundo
-- **Figma** – prototipação do layout
-- **Netlify** – hospedagem e deploy contínuo
+- **HTML5** – Estrutura e Semântica das Páginas
+- **CSS3** – Estilização com Folhas de Estilo Externas
+- **SVG** – Formas Decorativas de Fundo
+- **Figma** – Prototipação do Layout
+- **Netlify** – Hospedagem e Deploy Contínuo
 
 ## ✔️ Validação W3C
 
